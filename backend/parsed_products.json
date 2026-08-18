@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "Banana Flower",
+    "price": 40,
+    "weight": "1 pc",
+    "subCategory": "Banana Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Banana Flower (Cleaned)",
+    "price": 60,
+    "weight": "1 pc",
+    "subCategory": "Banana Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Banana Stem",
+    "price": 40,
+    "weight": "1 pc",
+    "subCategory": "Banana Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Raw Banana / Vazhakkai",
+    "price": 29,
+    "weight": "1 pc",
+    "subCategory": "Banana Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Banana Stem (Clean And Cut)",
+    "price": 60,
+    "weight": "1 pcs",
+    "subCategory": "Banana Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cluster Beans",
+    "price": 40,
+    "weight": "250 g",
+    "subCategory": "Beans Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ring Beans / Bush Beans",
+    "price": 50,
+    "weight": "250 g",
+    "subCategory": "Beans Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Bottle Brinjal",
+    "price": 65,
+    "weight": "500 g",
+    "subCategory": "Brinjal Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Brinjal Purple",
+    "price": 22.5,
+    "weight": "250 g",
+    "subCategory": "Brinjal Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ladies Finger",
+    "price": 27.5,
+    "weight": "250 g",
+    "subCategory": "Brinjal Family",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Broccoli",
+    "price": 62.5,
+    "weight": "250 g",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cabbage Green",
+    "price": 27.5,
+    "weight": "250 g",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cabbage Red",
+    "price": 32.5,
+    "weight": "250 g",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cauliflower Big",
+    "price": 95,
+    "weight": "1 pcs",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cauliflower Medium",
+    "price": 80,
+    "weight": "1 pcs",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Radish Red",
+    "price": 20,
+    "weight": "250 g",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Radish White",
+    "price": 20,
+    "weight": "250 g",
+    "subCategory": "Cabbage Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Capsicum Green",
+    "price": 62.5,
+    "weight": "250 g",
+    "subCategory": "Chillies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Capsicum Red",
+    "price": 100,
+    "weight": "250 g",
+    "subCategory": "Chillies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Capsicum Yellow",
+    "price": 100,
+    "weight": "250 g",
+    "subCategory": "Chillies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Green Chilly",
+    "price": 16,
+    "weight": "100 g",
+    "subCategory": "Chillies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Coconut Big",
+    "price": 60,
+    "weight": "1 pc",
+    "subCategory": "Coconut",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Coconut Small",
+    "price": 45,
+    "weight": "1 pc",
+    "subCategory": "Coconut",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Coconut",
+    "price": 110,
+    "weight": "1 pcs",
+    "subCategory": "Coconut",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Grated Coconut",
+    "price": 90,
+    "weight": "1 pack",
+    "subCategory": "Coconut",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Sweet Potato",
+    "price": 47.5,
+    "weight": "500 g",
+    "subCategory": "Corns And Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Baby Corn",
+    "price": 60,
+    "weight": "1 pack",
+    "subCategory": "Corns And Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Sweet Corn",
+    "price": 50,
+    "weight": "1 pc",
+    "subCategory": "Corns And Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Bitter Gourd",
+    "price": 60,
+    "weight": "50 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Brinjal",
+    "price": 120,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Capsicum",
+    "price": 180,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Cluster Beans",
+    "price": 150,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Ladies Finger",
+    "price": 140,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Sweet Potato Chips",
+    "price": 110,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Tomato",
+    "price": 60,
+    "weight": "50 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Vadagam - Thalipu",
+    "price": 180,
+    "weight": "6 pcs",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Drypotato Chips",
+    "price": 190,
+    "weight": "100 g",
+    "subCategory": "Dried Veggies",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Bitter Gourd",
+    "price": 25,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Bottle Gourd",
+    "price": 67.5,
+    "weight": "750 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Chow Chow",
+    "price": 23.75,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Cucumber",
+    "price": 22.5,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Kovakkai",
+    "price": 25,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Malabar / Saambar Cucumber",
+    "price": 35,
+    "weight": "500 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pumpkin",
+    "price": 18.75,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ridge Gourd",
+    "price": 32.5,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Snake Gourd Short",
+    "price": 18.75,
+    "weight": "250 g",
+    "subCategory": "Gourds",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Raw Mango",
+    "price": 45,
+    "weight": "500 g",
+    "subCategory": "Mango",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Fresh Raw Turmeric",
+    "price": 47.5,
+    "weight": "250 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Garlic",
+    "price": 36,
+    "weight": "100 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Garlic Hill / Malai Pundu",
+    "price": 40,
+    "weight": "100 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Garlic Nati / Nattu Poondu",
+    "price": 33,
+    "weight": "100 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ginger",
+    "price": 38,
+    "weight": "100 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ginger Garlic Paste",
+    "price": 160,
+    "weight": "200 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Lemon",
+    "price": 15,
+    "weight": "1 pc",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Lemon Pickle",
+    "price": 300,
+    "weight": "250 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Onion",
+    "price": 95,
+    "weight": "1 kg",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Small Onion / Sambar Onion",
+    "price": 50,
+    "weight": "250 g",
+    "subCategory": "Onion / Garlic Allied",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Garlic Powder",
+    "price": 1,
+    "weight": "1 kg",
+    "subCategory": "Others",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Onion Powder",
+    "price": 160,
+    "weight": "200 g",
+    "subCategory": "Powders",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Baby Potato",
+    "price": 20,
+    "weight": "250 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Beet Root Ooty",
+    "price": 45,
+    "weight": "250 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Carrot Ooty",
+    "price": 50,
+    "weight": "250 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Colocasia / Sepakazhangu",
+    "price": 37.5,
+    "weight": "250 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Elephant Yam / Karunaikizhangu",
+    "price": 35,
+    "weight": "250 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Potato Ooty",
+    "price": 65,
+    "weight": "500 g",
+    "subCategory": "Roots",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Tomato Hybrid",
+    "price": 42.5,
+    "weight": "500 g",
+    "subCategory": "Tomatoes",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Tomato Local",
+    "price": 35,
+    "weight": "500 g",
+    "subCategory": "Tomatoes",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Ash Gourd/pumpkin White",
+    "price": 20,
+    "weight": "250 g",
+    "subCategory": "Vegetables",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Banana Yelakki",
+    "price": 85,
+    "weight": "500 g",
+    "subCategory": "Bananas",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Dry Amla",
+    "price": 499.5,
+    "weight": "500 g",
+    "subCategory": "Dried Fruits",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Apple",
+    "price": 280,
+    "weight": "500 g",
+    "subCategory": "Exotic",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Avocado / Butter Fruit",
+    "price": 90,
+    "weight": "250 g",
+    "subCategory": "Exotic",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pomegranate",
+    "price": 290,
+    "weight": "500 g",
+    "subCategory": "Exotic",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Rambutan",
+    "price": 137.5,
+    "weight": "250 g",
+    "subCategory": "Exotic",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Fruit Basket",
+    "price": 1,
+    "weight": "1 pack",
+    "subCategory": "Fruit Bowl",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mixed Cut Fruit -fresh",
+    "price": 80,
+    "weight": "1 box",
+    "subCategory": "Fruit Bowl",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Watermelon Cut Fruits - 250 Gm",
+    "price": 45,
+    "weight": "1 box",
+    "subCategory": "Fruits Bowl",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Muskmelon",
+    "price": 67.5,
+    "weight": "750 g",
+    "subCategory": "Generic",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pomegranate Juice-250 Ml",
+    "price": 100,
+    "weight": "1 bottle",
+    "subCategory": "Juice",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Juice 250 Ml",
+    "price": 50,
+    "weight": "1 bottle",
+    "subCategory": "Juices",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Muskmelon Juice (250 Ml)",
+    "price": 40,
+    "weight": "1 bottle",
+    "subCategory": "Juices",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pineapple Juice-500 Ml",
+    "price": 90,
+    "weight": "1 bottle",
+    "subCategory": "Juices",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Watermelon Juice- 250 Ml",
+    "price": 45,
+    "weight": "1 bottle",
+    "subCategory": "Juices",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Apple Juice - 250 Ml",
+    "price": 150,
+    "weight": "1 bottle",
+    "subCategory": "Juices",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Guava - White",
+    "price": 90,
+    "weight": "500 g",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Papaya",
+    "price": 67.5,
+    "weight": "750 g",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Papaya Cut Fruits- 250 Gm",
+    "price": 40,
+    "weight": "1 box",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pineappe Cut Fruits- 250 Ml",
+    "price": 60,
+    "weight": "1 box",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pomegranare Cut Fruits- 150 Gm",
+    "price": 80,
+    "weight": "1 box",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Watermelon Kiran",
+    "price": 175,
+    "weight": "2.5 kg",
+    "subCategory": "Local",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Banganapalli",
+    "price": 170,
+    "weight": "1 kg",
+    "subCategory": "Mangoes",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Banganapalli @ 5kg",
+    "price": 750,
+    "weight": "1 set",
+    "subCategory": "Mangoes",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Banganapalli @ 3 Kg",
+    "price": 450,
+    "weight": "1 set",
+    "subCategory": "Mangoes",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Banana Milkshake-200 Ml",
+    "price": 40,
+    "weight": "1 bottle",
+    "subCategory": "Milk Shake",
+    "categoryName": "Fruits",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Apple Cut Fruits -150 Gm",
+    "price": 80,
+    "weight": "1 box",
+    "subCategory": "Others",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Fresh Juice-mango-250 Ml",
+    "price": 60,
+    "weight": "1 bottle",
+    "subCategory": "Others",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mangosteen",
+    "price": 580,
+    "weight": "1 kg",
+    "subCategory": "Others",
+    "categoryName": "Vegetables",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Amla Pickle",
+    "price": 120,
+    "weight": "100 g",
+    "subCategory": "Pickles( No Veniger)",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Amla Powder",
+    "price": 120,
+    "weight": "100 g",
+    "subCategory": "Powders",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Apple Spread",
+    "price": 250,
+    "weight": "100 g",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Jam 200 Gm",
+    "price": 300,
+    "weight": "1 bottle",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mango Jam 350 Gm",
+    "price": 400,
+    "weight": "1 bottle",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Mixed Fruit Jam",
+    "price": 270,
+    "weight": "150 g",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Pomegranate Jam",
+    "price": 200,
+    "weight": "100 g",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  },
+  {
+    "name": "Citrus Marmalade",
+    "price": 250,
+    "weight": "100 g",
+    "subCategory": "Spreads",
+    "categoryName": "Groceries",
+    "stock": 50,
+    "description": "Farm fresh organic produce.",
+    "images": [
+      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop"
+    ],
+    "isOrganic": true
+  }
+]
