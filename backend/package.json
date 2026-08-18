@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "tsx src/index.ts",
+    "start": "npx tsx src/index.ts",
     "dev": "tsx watch src/index.ts",
-    "seed": "tsx src/seed.ts",
-    "seed:more": "tsx src/seed_more.ts",
-    "seed:orders": "tsx src/seed_orders.ts",
-    "seed:vendors": "tsx src/seed_vendors.ts",
+    "build": "tsc",
+    "seed": "npx tsx src/seed.ts",
+    "seed:more": "npx tsx src/seed_more.ts",
+    "seed:orders": "npx tsx src/seed_orders.ts",
+    "seed:vendors": "npx tsx src/seed_vendors.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
