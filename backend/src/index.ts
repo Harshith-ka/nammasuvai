@@ -28,7 +28,8 @@ import vendorRoutes from './routes/vendorRoutes';
 // Middleware
 const allowedOrigins = [
   process.env.FRONTEND_URL || 'http://localhost:3000',
-  'http://192.168.1.11:3000',
+  'https://frontend-pi-ashen-58.vercel.app',
+  'https://frontend-1rpqdd181-harshith-kas-projects.vercel.app',
 ];
 app.use(cors({ origin: allowedOrigins, credentials: true }));
 app.use(express.json());
