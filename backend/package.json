@@ -29,8 +29,7 @@
     "nodemailer": "^9.0.1",
     "paytmchecksum": "^1.5.1",
     "pdfkit": "^0.19.1",
-    "puppeteer": "^25.2.1",
-    "razorpay": "^2.9.6",
+"razorpay": "^2.9.6",
     "tsx": "^4.22.4",
     "typescript": "^6.0.3"
   },
