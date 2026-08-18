@@ -55,7 +55,10 @@ app.get('/api/health', (req, res) => {
   res.status(200).json({ status: 'success', message: 'API is running' });
 });
 
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server is running on port ${PORT}`);
+const server = app.listen(PORT, '0.0.0.0', () => {
+  console.log(`🚀 Server is successfully listening on 0.0.0.0:${PORT}`);
   verifyEmailConfig();
 });
+
+export default app;
+
